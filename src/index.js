@@ -3,11 +3,11 @@ const app = express();
 const port = 8080;
 
 app.get('/', (req, res) => {
-  res.send('microservice hello.')
+  res.send('project is running.')
 });
 
-app.get('/data', (req, res) => {
-  res.send('get data is succeed.');
+app.get('/hello', (req, res) => {
+  res.send('hello juned.');
 });
 
 var server = app.listen(port, () => {
