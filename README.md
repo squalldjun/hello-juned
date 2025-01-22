@@ -30,3 +30,5 @@
         <tr><td>L3 Name D</td></tr>
     </tbody>
 </table>
+
+silakan klik [link](https://github.com/squalldjun/hello-juned/blob/main/README.md)
